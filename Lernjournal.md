@@ -5,3 +5,4 @@ Ich habe nach der Moduleinführung damit begonnen MYSQL mithilfe von XAMPP zu in
 (Bild Einfügen)
 
 ## 25.02.25: 
+Nun hat die Installalation von XAMPP geklappt und ich konnte Apache und mySQL im XAMPP Controller starten. Danach habe ich damit begonnen mit der MY SL Workbench eine DB zu erstellen: (Bild einfügen)
